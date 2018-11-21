@@ -1,0 +1,13 @@
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.deps.json
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.dll
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.pdb
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.csprojAssemblyReference.cache
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/SettingsPage.xaml.g.cs
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.csproj.CoreCompileInputs.cache
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.AssemblyInfoInputs.cache
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.AssemblyInfo.cs
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.dll
+/Users/hzambrano/Projects/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.pdb
